@@ -48,7 +48,7 @@
   <a href="https://x.com/Shahi_Arvind_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://www.instagram.com/arvind_shahi_569/" target="_blank">
+  <a href="https://www.instagram.com/neet_k.a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
